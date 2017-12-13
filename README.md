@@ -2,7 +2,7 @@
 A text editor made using Java's Swing Framework, created using NetBeans IDE
 
 # Text Editor's Name:
-Silk Editor
+Silk Text Editor
 
 # Features Implemented:
 1. File: New, Open, Save and Quit
